@@ -1,0 +1,21 @@
+a {
+	color: #ff5e66;
+}
+
+body {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	font-family: sans-serif;
+	margin: 50px;
+}
+
+.logo {
+	margin-bottom: 50px;
+	max-width: 400px;
+	width: 100%;
+}
+
+.message {
+	max-width: 700px;
+}
