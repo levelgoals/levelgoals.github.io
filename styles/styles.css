@@ -6,7 +6,8 @@ body {
 	align-items: center;
 	display: flex;
 	flex-direction: column;
-	font-family: sans-serif;
+	font-family: "DM Sans", sans-serif;
+	font-size: 1em;
 	margin: 50px;
 }
 
@@ -17,5 +18,5 @@ body {
 }
 
 .message {
-	max-width: 700px;
+	max-width: 600px;
 }
