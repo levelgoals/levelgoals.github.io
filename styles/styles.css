@@ -1,5 +1,6 @@
 a {
 	color: #ff5e66;
+	font-weight: bold;
 }
 
 body {
@@ -7,7 +8,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	font-family: "DM Sans", sans-serif;
-	font-size: 1em;
+	font-size: 1.2em;
 	margin: 50px;
 }
 
